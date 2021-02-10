@@ -1,2 +1,3 @@
 # overleaf-compose-yml
-The yml file for download
+
+As raw.githubusercontent.com always refuses connections, this repo can be cloned to get docker-compose.yml for Overleaf
